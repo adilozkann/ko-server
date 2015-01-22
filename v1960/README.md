@@ -1,4 +1,4 @@
-Knight Online Server
+Knight Online Server v1960
 ========
 
 * Knight Online Server Project
