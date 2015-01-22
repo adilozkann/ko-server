@@ -1,4 +1,4 @@
-Knight Online Server
+Knight Online Server v1299
 ========
 
 * Knight Online Server Project
