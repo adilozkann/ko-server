@@ -1,4 +1,4 @@
-Knight Online Server
+Knight Online Server v2045
 ========
 
 * Knight Online Server Project
